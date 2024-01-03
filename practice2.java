@@ -1,4 +1,4 @@
-public class pe1q1{
+public class practice2{
     public static void main(String[] args){
         if(args.length!=2) throw new IllegalArgumentException("It needs to be exactly 2 inputs");
         else{
