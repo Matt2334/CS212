@@ -1,5 +1,5 @@
 import javax.swing.*;
-public class pe2q1{
+public class practice6{
     public static void main(String[] args){
         String input=JOptionPane.showInputDialog(null,"Input String: ");
         int count=0;
