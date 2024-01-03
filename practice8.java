@@ -1,4 +1,4 @@
-public class pe2q3{
+public class practice8{
     public static void main(String[] args){
         Distance w1 = new Distance(4,9);
         Distance w2 = new Distance (3,6);
