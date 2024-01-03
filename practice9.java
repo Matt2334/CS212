@@ -1,4 +1,4 @@
-public class pe2q4 {
+public class practice9{
     static String s1,s2,s3,s4;
     public static void main (String[] args){
         s1 = new String("CAT");
@@ -14,7 +14,7 @@ public class pe2q4 {
         else
         System.out.println(a2);
     }
-    private static String mixThem (String b1, String b2){
+    private static String mixThem(String b1, String b2){
         String c1 = b1; //c1=DOG
         b1 = b2; //b1=RAT
         b2 = new String ("HAT");
